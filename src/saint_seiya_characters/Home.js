@@ -10,11 +10,11 @@ export default function Home() {
                "1411ed14-c897-47a5-b97b-c4c70f6e518a", "dfc0fd89-c8c0-4a15-96f6-920423bb103c", "830d72ec-b97f-4ffa-a6b9-ba5a930ab8f9", "5e76f499-8eab-43a2-9a3a-1c53dcc4e5db", "ada4d48e-fe4b-489d-a134-547d578ab564", "824f3d15-9b97-4c2c-b08a-e243ef0c97dc", 
                "94846abb-dd0a-4fc3-9f98-a92bff2bda56", "Capricorn_Shura", "Libra_Dohko", "Scorpio_Milo", "Pisces_Aphrodite", "Virgo_Shaka"]
   return (
-    <div className="d-flex flex-wrap justify-content-center align-items-center w-100">
+    <div className="d-flex flex-wrap justify-content-center align-items-center w-100 characters_grid">
         {
         list.map(character=>
-            <Link to={`/saint_seiya_characters/${character}`}>
-            <img className="w-50 mb-5" alt={character} src={`https://img-12.stickers.cloud/packs/be90c707-3de3-4a0b-853a-24be4f86ea6a/webp/${character}.webp`} />
+            <Link to={`/react-single-page-application/build/saint_seiya_characters/${character}`}>
+            <img className="w-50 mb-5 border border-4 rounded-5 border-danger bg-whitesmoke" alt={character} src={`https://img-12.stickers.cloud/packs/be90c707-3de3-4a0b-853a-24be4f86ea6a/webp/${character}.webp`} />
             </Link>)    
         }
 

@@ -2,9 +2,7 @@
 div#root {
   background-color: white;
   min-height: 100vh;
-  min-width: 100vw;
 }
-
 
 .mdbnavbar, .mdbdropdownmenu {
   background-color: darkred !important;
@@ -14,5 +12,27 @@ div#root {
   background-color: red;
   color: black;
 }
+
+.bg {
+  background-image: url(/src/saint_seiya_characters/assets/bg.jpg);
+}
+
+.bg_gradient {
+  background: rgb(12,1,199);
+  background: linear-gradient(233deg, rgb(12 1 199 / 81%) 0%, rgb(138 92 255 / 77%) 50%, rgb(82 8 218 / 67%) 100%);
+}
+
+.bg-whitesmoke {
+  background-color: whitesmoke;
+}
+
+.characters_grid a {
+  width: 310px;
+}
+
+figcaption#Namecharacter {
+  text-transform: capitalize;
+}
+
 
 
