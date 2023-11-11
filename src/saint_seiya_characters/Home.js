@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 
 export default function Home() {
-    const list=["Acuarius_Armor", "Andromeda_Armor", "09eba5c7-4a83-47c1-ba6a-b45c79a2884c", "e0796c8e-228e-47c6-8296-3b52130d804a", "5e0790a3-98f3-4c14-a1d5-ca45e9ee609f", 
+    const list=["cc22e0ed-b9b6-4316-9d21-fc19d1522121", "33e3db64-0078-4dc1-b600-e9be8fae03db", "09eba5c7-4a83-47c1-ba6a-b45c79a2884c", "e0796c8e-228e-47c6-8296-3b52130d804a", "5e0790a3-98f3-4c14-a1d5-ca45e9ee609f", 
                "d66aabec-8c5c-4336-922d-3978cc3fe384", "Athenea_Saori_Kiddo", "6bedd3a9-9b6b-45dd-8c94-f2036719b913", "c0c0842d-3e02-41ad-873e-0918b71a8d58", "7beff614-a2ef-4164-8628-fa36c3a1f38e", "b592f640-12ba-4bca-b565-9b05d7311686", 
                "45c5a181-c6f4-4205-9941-9a03b2bf20f8", "59003ae3-7ea9-4b81-a394-6e9ab7585137", "4d510407-65bd-406b-b51e-fae4a7c6ff28",
                
