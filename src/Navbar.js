@@ -48,7 +48,7 @@ export default function App() {
                 </MDBDropdownToggle>
                 <MDBDropdownMenu>
                   <MDBDropdownItem className='mdbdropdownmenu'>
-                    <NavLink to="/react-single-page-application/build/saint_seiya_characters/64949294-241b-468c-acdc-f4b6d22a252f" className={({isActive})=> (isActive ? "link-activated nav-link link-light rounded-top" : "nav-link link-light rounded-top")}>
+                    <NavLink to="/react-single-page-application/build/saint_seiya_characters/Pegaus_Armor" className={({isActive})=> (isActive ? "link-activated nav-link link-light rounded-top" : "nav-link link-light rounded-top")}>
                       Pegasus Armor
                     </NavLink>
                   </MDBDropdownItem>
