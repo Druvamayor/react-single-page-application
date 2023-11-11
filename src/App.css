@@ -4,6 +4,10 @@ div#root {
   min-height: 100vh;
 }
 
+.container_2 {
+  min-height: 100vh;
+}
+
 .mdbnavbar, .mdbdropdownmenu {
   background-color: darkred !important;
 }

@@ -9,7 +9,7 @@ import Navbar from './Navbar';
 export default function App() {
   return (
       <MDBRow>
-        <MDBCol size='12' className='px-0 bg_gradient'>
+        <MDBCol size='12' className='container_2 px-0 bg_gradient'>
             <BrowserRouter>
             <Navbar />
             <div className='content text-center'>

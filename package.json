@@ -1,5 +1,6 @@
 {
   "name": "react-single-page-application",
+  "homepage": " https://druvamayor.github.io/react-single-page-application/build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
