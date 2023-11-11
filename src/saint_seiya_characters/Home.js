@@ -14,7 +14,7 @@ export default function Home() {
         {
         list.map(character=>
             <Link to={`/react-single-page-application/build/saint_seiya_characters/${character}`}>
-            <img className="w-50 mb-5 border border-4 rounded-5 border-danger bg-whitesmoke" alt={character} src={`https://img-12.stickers.cloud/packs/be90c707-3de3-4a0b-853a-24be4f86ea6a/webp/${character}.webp`} />
+            <img className="w-50 mb-5 border border-4 rounded-5 border-danger bg-whitesmoke" alt={character} src={`https://raw.githubusercontent.com/Druvamayor/react-single-page-application/main/src/saint_seiya_characters/assets/${character}.webp`} />
             </Link>)    
         }
 
