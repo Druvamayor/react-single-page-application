@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-single-page-application/build/static/css/main.d4e6d5f4.css",
-    "main.js": "/react-single-page-application/build/static/js/main.bcdd6248.js",
+    "main.js": "/react-single-page-application/build/static/js/main.343435ca.js",
     "static/js/787.a45f86a1.chunk.js": "/react-single-page-application/build/static/js/787.a45f86a1.chunk.js",
     "static/media/fa-solid-900.ttf": "/react-single-page-application/build/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/bg.jpg": "/react-single-page-application/build/static/media/bg.19b4b40226640be9ff85.jpg",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.woff2": "/react-single-page-application/build/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/react-single-page-application/build/index.html",
     "main.d4e6d5f4.css.map": "/react-single-page-application/build/static/css/main.d4e6d5f4.css.map",
-    "main.bcdd6248.js.map": "/react-single-page-application/build/static/js/main.bcdd6248.js.map",
+    "main.343435ca.js.map": "/react-single-page-application/build/static/js/main.343435ca.js.map",
     "787.a45f86a1.chunk.js.map": "/react-single-page-application/build/static/js/787.a45f86a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4e6d5f4.css",
-    "static/js/main.bcdd6248.js"
+    "static/js/main.343435ca.js"
   ]
 }
