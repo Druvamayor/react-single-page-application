@@ -63,7 +63,7 @@ export default function App() {
                     </NavLink>
                   </MDBDropdownItem>
                   <MDBDropdownItem className='mdbdropdownmenu'>
-                    <NavLink to="/react-single-page-application/build/saint_seiya_characters/6c3455a4-a51b-4502-93e3-f562a0d96cf5" className={({isActive})=> (isActive ? "link-activated nav-link link-light rounded-top" : "nav-link link-light rounded-top")}>
+                    <NavLink to="/react-single-page-application/build/saint_seiya_characters/Andromeda_Armor" className={({isActive})=> (isActive ? "link-activated nav-link link-light rounded-top" : "nav-link link-light rounded-top")}>
                       Andromeda Armor
                     </NavLink>
                   </MDBDropdownItem>
