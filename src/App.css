@@ -12,9 +12,21 @@ div#root {
   background-color: darkred !important;
 }
 
+ul.navbar-nav li a,
+ul.navbar-nav li.nav-item .dropdown a,
+ul.navbar-nav li.nav-item .dropdown ul li a {
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
 .link-activated {
   background-color: red;
   color: black;
+}
+
+.content img {
+  width: 512px;
+  height: auto;
 }
 
 .bg {

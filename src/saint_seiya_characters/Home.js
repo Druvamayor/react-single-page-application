@@ -11,7 +11,7 @@ export default function Home() {
     <div className="d-flex flex-wrap justify-content-center align-items-center w-100 characters_grid">
         {
         list.map(character=>
-            <Link to={`/react-single-page-application/build/saint_seiya_characters/${character}`}>
+            <Link key={character} to={`/react-single-page-application/build/saint_seiya_characters/${character}`}>
             <img className="w-50 mb-5 border border-4 rounded-5 border-danger bg-whitesmoke" alt={character} src={`https://raw.githubusercontent.com/Druvamayor/react-single-page-application/main/src/saint_seiya_characters/assets/${character}.webp`} />
             </Link>)    
         }

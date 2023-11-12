@@ -31,7 +31,7 @@ export default function App() {
           aria-label='Toggle navigation'
           onClick={() => setShowBasic(!showBasic)}
         >
-          <MDBIcon icon='bars' fas />
+          <MDBIcon className='mb-3 text-light' icon='bars' fas />
         </MDBNavbarToggler>
 
         <MDBCollapse navbar show={showBasic}>
